@@ -33,6 +33,15 @@ public class DemoDay2 {
 
 
 			//pull the code
+		
+		
+		public void clone (int a, int b);
+		
+	
+		{
+			System.out.println("clone");
 		}
+		
+		
 	}
-
+}
